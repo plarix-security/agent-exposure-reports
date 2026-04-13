@@ -1,7 +1,3 @@
-10 directories found. Fetching all reports now.All 10 ingested. Here is the complete indexed record, system by system, nothing removed.
-
----
-
 # WYSCAN v1.6.2 | SCAN DATE: 2026-04-12/13 | AFB04 Taxonomy v1.6
 # Full Index: 10 OSS Agentic Systems
 
